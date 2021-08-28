@@ -1,8 +1,8 @@
 ### Hi there 👋
 -I'm a Robotics Control Engineer working for autonmous vehicles and uavs
 - 🔭 I’m currently working on Ford as Research Engineer for AV Planning & Controls 
-- I'm passionate about robotics, control theory and life in general. 
-- ⚡ Fun fact: I like run/hike and go travel placess and tinker with DIY robotics and drones. 
+- :stars: I'm passionate about robotics, control theory and life in general. :soccer: :robot: 
+- ⚡ Fun fact: I like run/hike :running: and go travel placess and tinker with DIY robotics and drones. 
 - 💬 Ask me about uav/vehicle controls and nonlinear controls and planning
 
 <!--
