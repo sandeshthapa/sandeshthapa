@@ -1,9 +1,10 @@
 ### Hi there 👋
--I'm a Robotics Control Engineer working for autonmous vehicles and uavs
+-I'm a Robotics Control Engineer working for autonmous vehicles and UAVS 
 - 🔭 I’m currently working on Ford as Research Engineer for AV Planning & Controls 
 - :stars: I'm passionate about robotics, control theory and life in general. :soccer: 🏀 🏈 :robot: 
 - ⚡ Fun fact: I like run/hike :running: and go travel placess and tinker with DIY robotics 🤖 and drones. 
 - 💬 Ask me about uav/vehicle controls and nonlinear controls and planning
+- 📫 How to reach me: thapasandesh1@gmail.com
 
 <!--
 **sandeshthapa/sandeshthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
