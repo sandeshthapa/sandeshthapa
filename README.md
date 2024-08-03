@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋About me
+
+- 🔭 I’m a Robotics and Controls Engineer. 
+- 📫 How to reach me: thapasandesh1@gmail.com
+-  website: https://sandeshthapa.github.io/
 
 [![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshthapa)](https://github.com/anuraghazra/github-readme-stats)
 <!--
