@@ -1,7 +1,12 @@
 ## Hi there 👋About m
 - 🔭 I’m a Robotics and Controls Engineer. 
 - 📫 How to reach me: thapasandesh1@gmail.com
+
+## Info 
 -  website: https://sandeshthapa.github.io/
+-  Robotics Controls Engineer: UAVS, Autonomous Vehicles, Robotics
+- Platform: multirotors, fixed wing uav, mobile robots, self-driving cars, autonomous vehicles
+- Software skills: C/C++, Python, ROS, MATLAB/Simulink, PX4, Gazebo, Git
 
 [![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshthapa)](https://github.com/anuraghazra/github-readme-stats)
 <!--
