@@ -1,10 +1,10 @@
-## Hi there 👋About m
+## Hi there 👋About me
 - 🔭 I’m a Robotics and Controls Engineer. 
 - 📫 How to reach me: thapasandesh1@gmail.com
 
 ## Info 
--  website: https://sandeshthapa.github.io/
--  Robotics Controls Engineer: UAVS, Autonomous Vehicles, Robotics
+- Website: https://sandeshthapa.github.io/
+- Robotics Controls Engineer: UAVS, Autonomous Vehicles, Robotics
 - Platform: multirotors, fixed wing uav, mobile robots, self-driving cars, autonomous vehicles
 - Software skills: C/C++, Python, ROS, MATLAB/Simulink, PX4, Gazebo, Git
 
