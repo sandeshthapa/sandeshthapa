@@ -1,4 +1,5 @@
-## Hi there 👋About me
+## Hi there 👋
+## About me
 - 🔭 I’m a Robotics and Controls Engineer. 
 - 📫 How to reach me: thapasandesh1@gmail.com
 
