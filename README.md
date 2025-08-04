@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## About me
-- 🔭 I’m a Robotics and Controls Engineer. 
+- 🔭 I’m a Controls Engineer for UAV, Autonomous Vehicle and Robotics.
+- I develop algorithms for controls, planning and automous system
 - 📫 How to reach me: thapasandesh1@gmail.com
 
 ## Info 
