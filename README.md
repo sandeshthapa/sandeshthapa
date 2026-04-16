@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## About me
-- 🔭 I’m a Controls Algorithm Engineer for UAV, Autonomous Vehicle, and Robotics.
+- 🔭 I’m a Algorithm Engineer for UAV, Autonomous Vehicle, and Robotics.
 - I develop algorithms for controls, planning, and autonomous systems. 
 - 📫 How to reach me: thapasandesh1@gmail.com
 
