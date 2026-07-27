@@ -10,9 +10,9 @@
 - Platform: multirotors, fixed-wing UAV, mobile robots, self-driving cars, autonomous vehicles
 - Software skills: C/C++, Python, ROS, MATLAB/Simulink, PX4, Gazebo, Git
 
-[![Sandesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeshthapa)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandesh's GitHub stats](https://github-stats-extended.vercel.app/api?username=sandeshthapa)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshthapa&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=sandeshthapa&layout=compact)
 
 <!--
 **sandeshthapa/sandeshthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
